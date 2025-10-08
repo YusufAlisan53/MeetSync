@@ -1,0 +1,3 @@
+MeetingNotExists: Meeting don't exists.
+RoomNotFound: Room not found.
+RoomNotAvailable: Room is not available at the specified time. There is a conflicting meeting.
